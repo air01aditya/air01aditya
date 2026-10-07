@@ -1,21 +1,19 @@
-<h1 align="center">Aditya Chandra Prajapati</h1>
+# Hi, I'm Aditya
 
-<p align="center">
-  <sub><b>PROOF OF WORK · ACP.X</b></sub>
-</p>
+**Aditya Chandra Prajapati**, Electronics and Telecommunication Engineering graduate (2026), based in Pune. I build small software projects that actually run.
 
-<p align="center">
-  <a href="https://air01aditya.github.io"><img src="https://img.shields.io/badge/Portfolio-air01aditya.github.io-1a1a18?style=flat-square&labelColor=fcfcfb" alt="Portfolio" /></a>
-</p>
+### Things I've built
 
----
+**[JobRadar](https://github.com/air01aditya/JobRadar)**<br>
+Android app that pulls job posts from 4 job boards and about 130 company career pages, removes duplicates, and sends alerts right on the phone.
 
-A portfolio should do one thing: show the work, and show that it runs.
+**[Night Cravings](https://github.com/air01aditya/Night-Cravings)** · [live demo](https://air01aditya.github.io/Night-Cravings/)<br>
+Late-night snack ordering app for hostels, with WhatsApp checkout and an owner panel. No backend.
 
-The work itself lives at [air01aditya.github.io](https://air01aditya.github.io), not here — this page is just the front door.
+**[AdityaBlog](https://github.com/air01aditya/AdityaBlog)**<br>
+A static blog: Markdown posts turned into a site, with search and syntax highlighting.
 
----
+**[Expense Tracker](https://github.com/air01aditya/Expense-Tracker-MERN)**<br>
+MERN app with login, transaction tracking and monthly charts.
 
-<p align="center">
-  <sub>Building in the open at <a href="https://air01aditya.github.io">air01aditya.github.io</a></sub>
-</p>
+More projects and write-ups at **[air01aditya.github.io](https://air01aditya.github.io)**
